@@ -1,0 +1,6 @@
+C:\Users\NP\Desktop\Balkan Extazy Role Play\gamemodes\Bextazy.pwn(4405) : error 010: invalid function or declaration
+C:\Users\NP\Desktop\Balkan Extazy Role Play\gamemodes\Bextazy.pwn(4409) : error 054: unmatched closing brace ("}")
+C:\Users\NP\Desktop\Balkan Extazy Role Play\gamemodes\Bextazy.pwn(163268) : error 017: undefined symbol "REI"
+C:\Users\NP\Desktop\Balkan Extazy Role Play\gamemodes\Bextazy.pwn(163268) : error 017: undefined symbol "reBroj"
+C:\Users\NP\Desktop\Balkan Extazy Role Play\gamemodes\Bextazy.pwn(163268) : error 029: invalid expression, assumed zero
+C:\Users\NP\Desktop\Balkan Extazy Role Play\gamemodes\Bextazy.pwn(163268) : fatal error 107: too many error messages on one line
