@@ -1,0 +1,1 @@
+San Andreas Multiplayer (SA:MP) is a modification for Grand Theft Auto: San Andreas which turns it into a multiplayer game.The script I've created is quite complex; it includes 100,000 special lines of code. It is designed to be uploaded to a server on the SA:MP modification so that players can connect and play on the script.
